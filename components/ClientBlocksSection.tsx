@@ -307,12 +307,12 @@ export default function ClientBlocksSection() {
       logo: '/images/real-customer-logos/project-live-nation.png',
       description: 'Description coming soon.',
       images: [
-        '/images/client-projects/live-nation/livenation-1.png',
-        'https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/1540406/pexels-photo-1540406.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg?auto=compress&cs=tinysrgb&w=800',
-        'https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg?auto=compress&cs=tinysrgb&w=800',
+        '/images/client-projects/live-nation/livenation-1.jpg',
+        '/images/client-projects/live-nation/livenation-2.png',
+        '/images/client-projects/live-nation/livenation-3.png',
+        '/images/client-projects/live-nation/livenation-4.png',
+        '/images/client-projects/live-nation/livenation-5.png',
+        '/images/client-projects/live-nation/livenation-6.png',
       ],
     },
     {
