@@ -40,7 +40,7 @@ export default function RealCustomersSection() {
     {
       id: 8,
       name: 'Live Nation',
-      logo: '/images/real-customer-logos/project-live-nation.png',
+      logo: '/images/real-customer-logos/project-livenation.png',
     },
     {
       id: 9,
