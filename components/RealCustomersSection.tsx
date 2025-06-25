@@ -149,31 +149,26 @@ export default function RealCustomersSection() {
     },
     {
       id: 30,
-      name: 'Margaritaville 1',
-      logo: '/images/real-customer-logos/project-margaritaville-1.png',
-    },
-    {
-      id: 31,
       name: 'The Toasted Yolk',
       logo: '/images/real-customer-logos/project-the-toasted-yolk.png',
     },
     {
-      id: 32,
+      id: 31,
       name: 'Highway Transport',
       logo: '/images/real-customer-logos/project-highway-transport.png',
     },
     {
-      id: 33,
+      id: 32,
       name: 'Jerry Jeff Walker',
       logo: '/images/real-customer-logos/project-jerry-jeff-walker.png',
     },
     {
-      id: 34,
+      id: 33,
       name: 'Dinosaur Adventure',
       logo: '/images/real-customer-logos/project-dinosaur-adventure.png',
     },
     {
-      id: 35,
+      id: 34,
       name: 'Special Olympics',
       logo: '/images/real-customer-logos/project-special-olympics.png',
     },
