@@ -405,7 +405,7 @@ export default function ClientBlocksSection() {
       logo: '/images/real-customer-logos/project-zach-and-zoe.png',
       description: 'Description coming soon.',
       images: [
-        '/images/client-projects/zach-and-zoe/zach-and-zoe-1.png',
+        '/images/client-projects/zach-and-zoe/zach-and-zoe-1.jpg',
         '/images/client-projects/zach-and-zoe/zach-and-zoe-2.png',
         '/images/client-projects/zach-and-zoe/zach-and-zoe-3.png',
         '/images/client-projects/zach-and-zoe/zach-and-zoe-4.png',
