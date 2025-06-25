@@ -363,7 +363,7 @@ export default function ClientBlocksSection() {
       logo: '/images/real-customer-logos/project-sidney-garber.png',
       description: 'Description coming soon.',
       images: [
-        '/images/client-projects/sidney-garber/sidney-garber-1.png',
+        '/images/client-projects/sidney-garber/sidney-garber-1.jpg',
         '/images/client-projects/sidney-garber/sidney-garber-2.png',
         '/images/client-projects/sidney-garber/sidney-garber-3.png',
         '/images/client-projects/sidney-garber/sidney-garber-4.png',
