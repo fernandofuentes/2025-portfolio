@@ -92,7 +92,7 @@ export default function HeroSection() {
     download="Fernando-Fuentes-Resume.pdf"
     className="inline-flex items-center px-8 py-4 bg-gray-900 text-white font-medium rounded-full hover:bg-gray-800 transition-all duration-300 hover:scale-105 hover:shadow-lg group text-lg"
   >
-    My Resume
+    Download my Resume
     <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform duration-300" />
   </a>
 </div>
