@@ -88,7 +88,7 @@ export default function HeroSection() {
               
 <div className="pt-6">
   <a
-    href="/images/hero/fernando-fuentes-resume-July-2025.pdf"
+    href="/images/hero/fernando-fuentes-resume-September-2025.pdf"
     download="Fernando-Fuentes-Resume.pdf"
     className="inline-flex items-center px-8 py-4 bg-gray-900 text-white font-medium rounded-full hover:bg-gray-800 transition-all duration-300 hover:scale-105 hover:shadow-lg group text-lg"
   >
